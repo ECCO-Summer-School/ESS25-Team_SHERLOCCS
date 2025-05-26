@@ -1,6 +1,6 @@
 # Adjoint Sensitivities & Heat/Volume Budgets in ECCO for RegionaL Investigation Over the California Current System (SHERLOCCS)
 
-![Project overview](SHERLOCCS_project_overview.png)
+![Project overview](SHERLOCCS_project_overview.pdf)
 
 This is an example of how teams can structure their project repositories and format their project README.md file.
 
