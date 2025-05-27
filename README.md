@@ -14,8 +14,8 @@ List all participants on the project. Here is a good space to share your persona
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| Katherine J. | I want to learn specific python libraries for working with these data  | I can help with understanding our dataset, programming in R  | Project Lead |
-| Rosalind F. | Practice leading a software project | machine learning and python (scipy, scikit-learn) | Project Lead |
+| Caeli Griffin | ...  | ...  | Project Lead |
+| Yue Wu | ... | ... | Project Lead |
 | Anthony Meza | Learning adjoint capabilities using the EMU tool | GitHub, Jupyter, cloud computing, xarray, ECCO budgets | Project Lead |
 
 ### The problem
