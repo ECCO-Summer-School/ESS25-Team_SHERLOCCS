@@ -1,10 +1,6 @@
 # Adjoint 	<ins>S</ins>ensitivities & 	<ins>H</ins>eat/Volume Budgets in 	<ins>E</ins>CCO for 	<ins>R</ins>egiona<ins>L</ins> Investigation 	<ins>O</ins>ver the 	<ins>C</ins>alifornia <ins>C</ins>urrent <ins>S</ins>ystem (SHERLOCCS)
 
-![Overview](SHERLOCCS_project_overview.png)
-
-# Project or Team Name
-
-## Project Title and Introduction
+## Introduction
 
 We aim to understand the factors that control temperature variability in the CalCOFI region. Our work is heavily inspired by a previous 
 study that used the California State Estimate (CASE) to probe this question [(Zaba et., al 2020)](https://doi.org/10.1175/JPO-D-19-0271.1). 
@@ -14,8 +10,7 @@ Here, we will use the central ECCO state estimate (currently ECCO V4r4) to achie
 - Use the EMU toolbox to conduct an attribution study (i.e., attribute variability to winds, heat fluxes, etc.)
 - Use the EMU toolbox to conduct an adjoint analysis, and to attribute observed temperature variability or extreme events to a particular mechanism  
 
-
-Provide a brief introduction describing the proposed work. Be sure to also decribe what skills team members will get to learn and practice as part of this project.
+![Overview](SHERLOCCS_project_overview.png)
 
 ### Collaborators
 
