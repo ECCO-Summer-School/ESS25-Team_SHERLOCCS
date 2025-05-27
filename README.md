@@ -6,6 +6,15 @@
 
 ## Project Title and Introduction
 
+We aim to understand the factors that control temperature variability in the CalCOFI region. Our work is heavily inspired by a previous 
+study that used the California State Estimate (CASE) to probe this question [(Zaba et., al 2020)](https://doi.org/10.1175/JPO-D-19-0271.1). 
+Here, we will use the central ECCO state estimate (currently ECCO V4r4) to achieve the following: 
+- Investigate whether temperature anomalies that appear in CASE are reproduced in ECCO V4r4 
+- Compare the heat/volume budgets of the CalCOFI region in ECCO V4r4 to the higher resolution CASE budgets
+- Use the EMU toolbox to conduct an attribution study (i.e., attribute variability to winds, heat fluxes, etc.)
+- Use the EMU toolbox to conduct an adjoint analysis, and to attribute observed temperature variability or extreme events to a particular mechanism  
+
+
 Provide a brief introduction describing the proposed work. Be sure to also decribe what skills team members will get to learn and practice as part of this project.
 
 ### Collaborators
@@ -19,7 +28,6 @@ List all participants on the project. Here is a good space to share your persona
 | Anthony Meza | Learning adjoint capabilities using the EMU tool | GitHub, Jupyter, cloud computing, xarray, ECCO budgets | Project Lead |
 
 ### The problem
-
 Provide a few sentences describing the problem are you going to explore. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context and specific applications of this work.
 
 ## Data and Methods
