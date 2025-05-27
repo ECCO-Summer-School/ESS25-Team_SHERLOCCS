@@ -1,3 +1,5 @@
+notebooks/heat_budget/data/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
