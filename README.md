@@ -66,7 +66,7 @@ What are the individual tasks or steps that need to be taken to achieve each of 
 
 ## Project Results
 
-![final_slide](final.png)
+[Untitled presentation.pdf](https://github.com/user-attachments/files/20535377/Untitled.presentation.pdf)
 
 Use this section to briefly summarize your project results. This could take the form of describing the progress your team made to answering a research question, developing a tool or tutorial, interesting things found in exploring a new dataset, lessons learned for applying a new method, personal accomplishments of each team member, or anything else the team wants to share.
 
