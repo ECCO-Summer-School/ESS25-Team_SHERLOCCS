@@ -18,7 +18,7 @@ List all participants on the project. Here is a good space to share your persona
 
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
-| Caeli Griffin | ...  | ...  | Project Lead |
+| Caeli Griffin | Practicing with EMU, improving understanding of regional state estimation, budget closure  | GitHub, MATLAB, positive attitude!  | Project Lead |
 | Yue Wu | ... | ... | Project Lead |
 | Anthony Meza | Learning adjoint capabilities using the EMU tool | GitHub, Jupyter, cloud computing, xarray, ECCO budgets | Project Lead |
 
@@ -27,7 +27,9 @@ We leveraged a variety of ECCO tools to investigate the science questions above,
 
 ### Data
 
-Briefly describe and provide citations for the data that will be used (size, format, how to access).
+ECCO Central Estimate --> ECCO Consortium. [2019]. [ECCO Version 4 Release 4]. Dataset accessed [2025-05-19] from [https://ecco-group.org/products.htm].
+
+ECCO Modeling Utilities (EMU) --> https://ecco-group.org/docs/ecco_annual_mtg23_day1_04_fukumori.pdf
 
 ### Existing methods
 
@@ -36,8 +38,6 @@ How would you or others traditionally try to address this problem? Provide any r
 ### Proposed methods/tools
 
 What new approaches would you like to implement for addressing your specific question(s) or application(s)?
-
-Will your project use machine learning methods? If so, we invite you to create a [model card](model-card.md)!
 
 ### Additional resources or background reading
 
