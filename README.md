@@ -22,10 +22,8 @@ List all participants on the project. Here is a good space to share your persona
 | Yue Wu | ... | ... | Project Lead |
 | Anthony Meza | Learning adjoint capabilities using the EMU tool | GitHub, Jupyter, cloud computing, xarray, ECCO budgets | Project Lead |
 
-### The problem
-Provide a few sentences describing the problem are you going to explore. If this is a technical exploration of software or data science methods, explain why this work is important in a broader context and specific applications of this work.
-
 ## Data and Methods
+We leveraged a variety of ECCO tools to investigate the science questions above, including the ECCO Modeling Utilities (EMU), adjoint sensitivity experiments, volume and heat budgets, perturbation experiments, and convolution experiments. 
 
 ### Data
 
