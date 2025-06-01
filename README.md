@@ -19,7 +19,7 @@ List all participants on the project. Here is a good space to share your persona
 | Name | Personal goals | Can help with | Role |
 | ------------- | ------------- | ------------- | ------------- |
 | Caeli Griffin | Practicing with EMU, improving understanding of regional state estimation, budget closure  | GitHub, MATLAB, positive attitude!  | Project Lead |
-| Yue Wu | ... | ... | Project Lead |
+| Yue Wu | Understanding principles begind ECCO, practicing on LLC grid and EMU tool | Jupyter notebook, MATLAB, Gitgub | Project Lead |
 | Anthony Meza | Learning adjoint capabilities using the EMU tool | GitHub, Jupyter, cloud computing, xarray, ECCO budgets | Project Lead |
 
 ## Data and Methods
